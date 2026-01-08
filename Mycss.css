@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.mycolor {
+    background-color:darkseagreen;
+}
+/*.myflex {position:fixed;top:0;width:100%;
+}*/
+
+.cssbtn { background-color:darkseagreen;opacity:0.8;
+}
+    .cssbtn:hover { background-color:darkseagreen;opacity:0.6;
+    }
+
+.navbutton:hover {border:2px solid black;
+}

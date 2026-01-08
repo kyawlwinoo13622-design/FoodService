@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\C#project\foodservice\foodservice\bin\foodservice.dll
+C:\Users\DELL\Desktop\C#project\foodservice\foodservice\bin\foodservice.pdb
+C:\Users\DELL\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.dll
+C:\Users\DELL\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.pdb
+C:\Users\user\Desktop\C#project\foodservice\foodservice\bin\foodservice.dll
+C:\Users\user\Desktop\C#project\foodservice\foodservice\bin\foodservice.pdb
+C:\Users\user\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.dll
+C:\Users\user\Desktop\C#project\foodservice\foodservice\obj\Debug\foodservice.pdb
